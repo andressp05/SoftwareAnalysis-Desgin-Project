@@ -1,0 +1,7 @@
+Andres Salas Peña
+Francisco Vicente Lana
+Padsof 2202 - Practica 3
+
+En la practica entregada se incluye la matriz de trazabilidad, el diagrama de clases, todo el codigo realizado con sus correspondientes tests y javadoc.
+
+Notar que en los tests no se realiza javadoc tal y como se comentó en clase, al igual que tampoco se realizan los tests de aquellos métodos simples como getters setters ni se tratan excepciones (todo ello tras previo acuerdo con el profesor de la asignatura). Al usar serializable se generan warnings fácilmente tratables añadiendo un identificador pero que hemos decidido no crear para ceñirnos mejor a lo pedido.

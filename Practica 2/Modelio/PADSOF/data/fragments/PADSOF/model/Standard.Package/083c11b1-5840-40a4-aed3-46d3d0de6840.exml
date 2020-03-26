@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="padsof" version="4">
+  <OBJECT>
+    <ID name="padsof" mc="Standard.Package" uid="083c11b1-5840-40a4-aed3-46d3d0de6840"/>
+    <PID name="PADSOF" mc="Standard.Project" uid="b7b760f0-0e62-47ff-94ca-a87ab58a50b1"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[padsof]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Usuario" mc="Standard.Class" uid="e89583a9-adb8-4210-92f8-d8e5466ffd53"/>
+        <COMPID name="Asignatura" mc="Standard.Class" uid="221d365c-092c-46ad-b12f-a966b6647097"/>
+        <COMPID name="Alumno" mc="Standard.Class" uid="45f70e52-2e3d-4ff7-bafb-d5ad92843aee"/>
+        <COMPID name="Profesor" mc="Standard.Class" uid="c556c2b1-d68d-4a06-842d-4c6aa2b93860"/>
+        <COMPID name="Apuntes" mc="Standard.Class" uid="e0641aed-012c-4a0a-a055-54d23e55547b"/>
+        <COMPID name="Ejercicio" mc="Standard.Class" uid="74bca218-bbaa-4764-95a1-ef13a695e4f1"/>
+        <COMPID name="Tema" mc="Standard.Class" uid="629de107-1fc5-4878-976a-eed282639294"/>
+        <COMPID name="Pregunta" mc="Standard.Class" uid="1bbeb489-72b5-41dd-a9b8-6f477b9c1e52"/>
+        <COMPID name="RespuestaSimple" mc="Standard.Class" uid="70320b57-94e5-471a-a9f3-b121e91ebc0e"/>
+        <COMPID name="RespuestaMultiple" mc="Standard.Class" uid="ee29f170-e196-4c25-9ca4-e6bb18a78d05"/>
+        <COMPID name="RespuestaUnica" mc="Standard.Class" uid="7e677e32-2dee-4646-9741-9b356d5a9922"/>
+        <COMPID name="RespuestaAbierta" mc="Standard.Class" uid="0ca64de7-24c7-4217-b7a9-fe2c501de252"/>
+        <COMPID name="Aplicacion" mc="Standard.Class" uid="5f9581a3-561b-43fd-a415-0b832274e84e"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="padsof Class diagram" mc="Standard.ClassDiagram" uid="fa72d8ad-2213-4390-a8b4-c88c0eb07934"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
